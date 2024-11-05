@@ -1,0 +1,1 @@
+//install inversify, nơi đây chứa các hoạt động như redux nhưng kh giống redux
